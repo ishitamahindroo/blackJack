@@ -1,5 +1,6 @@
 # Blackjack Project
-100days of Python's First capstone Project, TO build a code that runs blackjack simulation. No hints were used, and the project was complete in 2.5hours.
+100days of Python's First capstone Project, 
+### Day-11: TO build a code that runs blackjack simulation. No hints were used, and the project was complete in 2.5hours.
 
 ### Taken Difficulty Expert 🤯: Only used Hint 1 to complete the project.
 
